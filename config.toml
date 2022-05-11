@@ -1,4 +1,4 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'Photogrammetry Workshop -- Plovdiv'
-theme = "ananke"
+theme = "terminal"
