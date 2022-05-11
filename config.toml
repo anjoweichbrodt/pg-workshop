@@ -1,0 +1,4 @@
+baseURL = 'https://anjoweichbrodt.github.io/pg-workshop'
+languageCode = 'en-us'
+title = 'Photogrammetry Workshop -- Plovdiv'
+theme = "ananke"
