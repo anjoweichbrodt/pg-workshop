@@ -31,4 +31,4 @@ Anjo Weichbrodt
 
 **Place:** Museum & Shelter of the Great Basilica Plovdiv
 
-**Application deadline:** July 31
+**Application deadline:** August 15
